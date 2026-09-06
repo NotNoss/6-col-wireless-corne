@@ -15,3 +15,6 @@ If you want this exact firmware you can download the file from the latest action
 
 ## layer 3
 <img src="./assets/layer_3.png">
+
+## layer 4
+<img src="./assets/layer_4.png">
